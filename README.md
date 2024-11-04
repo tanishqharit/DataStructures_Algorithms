@@ -1,0 +1,7 @@
+- [Data Structures](https://www.geeksforgeeks.org/data-structures/)
+  - [Arrays](https://www.geeksforgeeks.org/array-data-structure-guide/?ref=outind)
+  - [Matrix](https://www.geeksforgeeks.org/matrix/?ref=outind)
+  - [Strings](https://www.geeksforgeeks.org/string-data-structure/?ref=outind)
+  - [Linked Lists](https://www.geeksforgeeks.org/linked-list-data-structure/?ref=home-articlecards)
+- [Algorithms](https://www.geeksforgeeks.org/introduction-to-algorithms/?ref=outind)
+  - [Searching](https://www.geeksforgeeks.org/searching-algorithms/?ref=outind)
