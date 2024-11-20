@@ -9,3 +9,18 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/tanishqharit/DataStructures_Algorithms/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/tanishqharit/DataStructures_Algorithms/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/tanishqharit/DataStructures_Algorithms/tree/master/0013-roman-to-integer) |
+<!---LeetCode Topics End-->
